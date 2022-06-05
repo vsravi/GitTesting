@@ -6,3 +6,4 @@ THis is index file
 
 Form Demo1
 
+Editing after Stash
